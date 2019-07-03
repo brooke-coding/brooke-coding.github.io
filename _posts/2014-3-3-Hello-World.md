@@ -1,7 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Create the virtual environments with Python3
 ---
+A virtual environment is like a folder, which can sort of isolate the different projects from different Python versions with their dependecies (installed packages). It encapsulates Python dependencies using path hacks and symlinks. But the global dependencies / packages that are installed with your system package manager like PowerShell or APT(get-apt) are shared between the virtualenvs.
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
